@@ -1,3 +1,32 @@
 h1 {
-    background-color: green;
+    text-align: center;
+    font-family: 'Cookie', cursive;
+    font-size: 50px;
+    font-weight: 300;
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration-line: none;
+    color: rgb(77, 99, 124);
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: autopx:
+
+}
+
+img.eba {
+    width: 500px;
+    height: auto;
+}
+
+* {
+    background-color: antiquewhite;
+
 }
